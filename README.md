@@ -66,7 +66,7 @@ dom_pedro_button = WebDriverWait(driver, 0.1).until(
 
 ---
 
-## 💡 Observações
+## Observações
 
 - O tempo de execução foi otimizado:  
   O que antes demorava **20 segundos ou mais**, agora é feito em **1 a 3 segundos**, graças ao carregamento instantâneo e lógica de tentativa direta.
@@ -75,7 +75,7 @@ dom_pedro_button = WebDriverWait(driver, 0.1).until(
 
 ---
 
-## 📄 Licença
+## Licença
 
 Uso pessoal e educacional. Sem garantias. Modifique com responsabilidade.
 
